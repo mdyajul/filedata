@@ -5,5 +5,9 @@
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": { "name": "typicode" }
+  "profile": { "name": "typicode" },
+  "new": [
+    { "id":1, "title":"bagmaja", "img":"https://images.coach.com/is/image/Coach/ch416_b4tj2_a0?$desktopProductTile$"}
+  ]
+
 }
