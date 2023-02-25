@@ -1,12 +1,879 @@
+ 
 {
-  
-  "new": [
-    { "id":1, 
-    "title":"Disney X Coach Rogue 25 In", 
-    "img":"https://images.coach.com/is/image/Coach/ch461_b4iy_a0?$desktopProductTile$",
-    "price":795,
-    "stars":266
-  }
+  "new":[
+      {
+          "id":1,
+          "title":"Disney X Coach Rogue 25 In",
+          "img":"https://images.coach.com/is/image/Coach/ch461_b4iy_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"cream",
+          "price":795,
+          "star":266
+      },
+      {
+          "id":2,
+          "title":"Disney X Coach Rogue 25 In",
+          "img":"https://images.coach.com/is/image/Coach/ch416_b4tj2_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"brown",
+          "price":895,
+          "star":266
+      },
+      {
+          "id":3,
+          "title":"Rogue 12 In Colorblock Regenerative Leather",
+          "img":"https://images.coach.com/is/image/Coach/ch586_v5lok_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"pink",
+          "price":495,
+          "star":14
+      },
+      {
+          "id":4,
+          "title":"Rogue 20",
+          "img":"https://www.coach.com/products/rogue-20/CH364.html?frp=CH364%20LHBLK",
+          "category":"bag",
+          "gender":"female",
+          "color":"black",
+          "price":495,
+          "star":20
+      },
+      {
+          "id":5,
+          "title":"Rogue 12 In Colorblock Regenerative Leather",
+          "img":"https://images.coach.com/is/image/Coach/ci808_v5lok_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"darkpink",
+          "price":195,
+          "star":20
+      },
+      {
+          "id":6,
+          "title":"Disney X Coach Studio Shoulder Bag With Mickey Mouse And Bugs",
+          "img":"https://images.coach.com/is/image/Coach/ch467_lhbut_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"yellow",
+          "price":550,
+          "star":110
+      },
+      {
+          "id":7,
+          "title":"Disney X Coach Studio Shoulder Bag With Mickey Mouse And Flowers",
+          "img":"https://images.coach.com/is/image/Coach/ch413_b4vh1_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"pink",
+          "price":550,
+          "star":110
+      },
+      {
+          "id":8,
+          "title":"Disney X Coach Studio Shoulder Bag With Mickey Mouse And Watering Can",
+          "img":"https://images.coach.com/is/image/Coach/ch466_b4rt2_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"green",
+          "price":550,
+          "star":110
+      },
+      {
+          "id":9,
+          "title":"Studio 12",
+          "img":"https://images.coach.com/is/image/Coach/ce762_b4bh5_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"peach",
+          "price":195,
+          "star":20
+      },
+      {
+          "id":10,
+          "title":"Studio 12",
+          "img":"https://images.coach.com/is/image/Coach/cc484_v5lqt_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"darkpink",
+          "price":195,
+          "star":5
+      },
+      {
+          "id":11,
+          "title":"Soft Tabby Shoulder Bag In Signature Denim",
+          "img":"https://images.coach.com/is/image/Coach/ci808_v5lok_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"black",
+          "price":495,
+          "star":158
+      },
+      {
+          "id":12,
+          "title":"Soft Tabby Shoulder Bag",
+          "img":"https://images.coach.com/is/image/Coach/c5262_v5for_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"darkgreen",
+          "price":450,
+          "star":158
+      },
+      {
+          "id":13,
+          "title":"Soft Tabby Shoulder Bag",
+          "img":"https://images.coach.com/is/image/Coach/c4823_b4bk_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"black",
+          "price":450,
+          "star":158
+      },
+      {
+          "id":14,
+          "title":"Tabby Shoulder Bag 26",
+          "img":"https://images.coach.com/is/image/Coach/ch857_b4ha_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"lightpeach",
+          "price":450,
+          "star":250
+      },
+      {
+          "id":15,
+          "title":"Tabby Shoulder Bag 26",
+          "img":"https://images.coach.com/is/image/Coach/ch857_v5blk_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"darkpink",
+          "price":195,
+          "star":20
+      },
+      {
+          "id":16,
+          "title":"Tabby Shoulder Bag 26",
+          "img":"https://images.coach.com/is/image/Coach/ch857_b4bk_a3?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"darkpink",
+          "price":195,
+          "star":20
+      },
+      {
+          "id":17,
+          "title":"Tabby Shoulder Bag 26",
+          "img":"https://images.coach.com/is/image/Coach/ch735_v5ebv_a8?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"darkpink",
+          "price":195,
+          "star":20
+      },
+      {
+          "id":18,
+          "title":"Tabby Shoulder Bag 26",
+          "img":"https://images.coach.com/is/image/Coach/ci032_b4nq4_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"darkpink",
+          "price":195,
+          "star":20
+      },
+      {
+          "id":19,
+          "title":"Rogue 20",
+          "img":"https://images.coach.com/is/image/Coach/c3880_b4bk_a3?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"darkpink",
+          "price":195,
+          "star":20
+      },
+      {
+          "id":20,
+          "title":"Pillow Tabby Shoulder Bag 26",
+          "img":"https://images.coach.com/is/image/Coach/c0772_lhblk_a3?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"darkpink",
+          "price":550,
+          "star":250
+      }
+
+
+
+  ],
+  "shop":[
+      {
+         
+          "id":1,
+          "title":"Tabby 13 In Colorblock",
+          "img":"https://images.coach.com/is/image/Coach/cc483_b4upe_a3?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"green",
+          "price":195,
+          "star":5
+      },
+      {
+         
+          "id":2,
+          "title":"Rogue 12 In Colorblock Regenerative Leather",
+          "img":"https://images.coach.com/is/image/Coach/ch416_b4tj2_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"deeppeach",
+          "price":195,
+          "star":20 
+      },
+      {
+         
+          "id":3,
+          "title":"Swinger 20 In Signature Denim",
+          "img":"https://images.coach.com/is/image/Coach/ch416_b4tj2_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"kobra",
+          "price":225,
+          "star":55 
+      },
+      {
+         
+          "id":4,
+          "title":"Disney X Coach Swinger 20 In Regenerative Leather With Mickey Mouse And Flowers",
+          "img":"https://images.coach.com/is/image/Coach/ch416_b4tj2_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"deeppeach",
+          "price":275,
+          "star":55 
+      },
+      {
+         
+          "id":5,
+          "title":"Swinger 20 With Floral Print",
+          "img":"https://images.coach.com/is/image/Coach/ch416_b4tj2_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"deeppeach",
+          "price":275,
+          "star":55 
+      },
+      {
+         
+          "id":6,
+          "title":"Swinger 20 With Plaid Print",
+          "img":"https://images.coach.com/is/image/Coach/cg177_lhmvv_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Silver/Cherry Multi",
+          "price":206.50,
+          "star":55 
+      },
+      {
+         
+          "id":7,
+          "title":"Swinger 20",
+          "img":"https://images.coach.com/is/image/Coach/c2643_b4aee_a3?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Bright Green",
+          "price":225,
+          "star":85 
+      },
+      {
+         
+          "id":8,
+          "title":"Swinger Bag",
+          "img":"https://images.coach.com/is/image/Coach/c0638_b4ha_a3?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Chalk",
+          "price":295,
+          "star":112 
+      },
+      {
+         
+          "id":9,
+          "title":"Demi Bag In Signature Jacquard",
+          "img":"https://images.coach.com/is/image/Coach/ce736_b4v2s_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Lake",
+          "price":295,
+          "star": 4
+      },
+      {
+         
+          "id":10,
+          "title":"Demi Bag In Signature Jacquard",
+          "img":"https://images.coach.com/is/image/Coach/ce736_b4v2v_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"famale",
+          "color":"Brass/Green",
+          "price":295,
+          "star": 4
+      },
+      {
+         
+          "id":11,
+          "title":"Demi Bag In Signature Jacquard",
+          "img":"https://images.coach.com/is/image/Coach/ce736_b4v2t_a3?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Sport Red",
+          "price":295,
+          "star":4 
+      },
+      {
+         
+          "id":12,
+          "title":"Demi Bag In Signature Jacquard",
+          "img":"https://images.coach.com/is/image/Coach/ce736_b4s0m_a3?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Oak Maple",
+          "price":295,
+          "star":4 
+      },
+      {
+         
+          "id":13,
+          "title":"Studio 12",
+          "img":"https://images.coach.com/is/image/Coach/cc484_v5lqt_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Pewter/Flax",
+          "price":195,
+          "star": 5
+      },
+      {
+         
+          "id":14,
+          "title":"Studio 12",
+          "img":"https://images.coach.com/is/image/Coach/ce762_b4bh5_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Latte",
+          "price":195,
+          "star": 5
+      },
+      {
+         
+          "id":15,
+          "title":"Bandit Crossbody",
+          "img":"https://images.coach.com/is/image/Coach/cd724_b4ru_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Rust",
+          "price":245,
+          "star": 26
+      },
+      {
+         
+          "id":16,
+          "title":"Bandit Crossbody With Plaid Print",
+          "img":"https://images.coach.com/is/image/Coach/cg178_lhuz0_a0?$desktopProductTile$",
+          "category":"",
+          "gender":"female",
+          "color":"Silver/Green Multi",
+          "price":297,
+          "star":258
+      },
+      {
+         
+          "id":17,
+          "title":"Willow Tote 24 In Colorblock",
+          "img":"https://images.coach.com/is/image/Coach/c8561_b4vi6_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Bubblegum Multi",
+          "price":295,
+          "star":93 
+      },
+      {
+         
+          "id":18,
+          "title":"Willow Tote 24",
+          "img":"https://images.coach.com/is/image/Coach/c8869_b4bk_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Black",
+          "price":295,
+          "star": 93
+      },
+      {
+         
+          "id":19,
+          "title":"Willow Tote 24 In Signature Canvas With Rexy Print",
+          "img":"https://images.coach.com/is/image/Coach/cf102_bkhru_a3?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Khaki/Rust",
+          "price":245,
+          "star":89 
+      },
+      {
+         
+          "id":20,
+          "title":"Willow Tote 24 In Signature Canvas",
+          "img":"https://images.coach.com/is/image/Coach/c8562_b4nq4_a3?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Tan/Rust",
+          "price":295,
+          "star": 93
+      }
+  ],
+  "women":[
+      {
+         
+          "id":1,
+          "title":"Moto Jacket",
+          "img":"https://images.coach.com/is/image/Coach/ci472_blk_a0?$desktopProductTile$",
+          "category":"cloth",
+          "gender":"female",
+          "color":"Black",
+          "price":1250,
+          "star":90
+      },
+      {
+         
+          "id":2,
+          "title":"Pillow Tabby Shoulder Bag 26",
+          "img":"https://images.coach.com/is/image/Coach/c0772_lhblk_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Silver/Black",
+          "price":550,
+          "star":251 
+      },
+      {
+         
+          "id":3,
+          "title":"Tabby Shoulder Bag 26",
+          "img":"https://images.coach.com/is/image/Coach/ch857_b4bk_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Black",
+          "price":450,
+          "star": 251
+      },
+      
+      {
+         
+          "id":4,
+          "title":"Disney X Coach Studio Shoulder Bag With Mickey Mouse And Flowers",
+          "img":"https://images.coach.com/is/image/Coach/ch413_b4vh1_a3?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Burnt Coral",
+          "price":550,
+          "star": 258
+      },
+      {
+         
+          "id":5,
+          "title":"Cara Satchel",
+          "img":"https://images.coach.com/is/image/Coach/ce741_b4bk_a3?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Black",
+          "price":395,
+          "star":7 
+      },
+      {
+         
+          "id":6,
+          "title":"Bea Crossbody",
+          "img":"https://images.coach.com/is/image/Coach/ch802_b4u6_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Red",
+          "price":275,
+          "star": 6
+      },
+      {
+         
+          "id":7,
+          "title":"Swinger 20",
+          "img":"https://images.coach.com/is/image/Coach/c2643_b4aee_a3?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Bright Green",
+          "price":225,
+          "star": 85
+      },
+      {
+         
+          "id":8,
+          "title":"Tabby Chain Clutch",
+          "img":"https://images.coach.com/is/image/Coach/ce772_b4ha_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Chalk",
+          "price":295,
+          "star": 95
+      },
+      {
+         
+          "id":9,
+          "title":"Bethany Belt Bag",
+          "img":"https://images.coach.com/is/image/Coach/ch813_b4bk_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Black",
+          "price":195,
+          "star": 111
+      },
+      {
+         
+          "id":10,
+          "title":"Luna Shoulder Bag",
+          "img":"https://images.coach.com/is/image/Coach/cc439_v5blk_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Pewter/Black",
+          "price":295,
+          "star": 34
+      },
+      {
+         
+          "id":11,
+          "title":"Cassie Crossbody 19",
+          "img":"https://images.coach.com/is/image/Coach/88346_b4ha_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Chalk",
+          "price":295,
+          "star": 139
+      },
+      {
+         
+          "id":12,
+          "title":"Metropolitan Slim Brief",
+          "img":"https://images.coach.com/is/image/Coach/55565_olsad_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Saddle",
+          "price":595,
+          "star": 39
+      },
+      {
+         
+          "id":13,
+          "title":"Wyn Crossbody",
+          "img":"https://images.coach.com/is/image/Coach/c8439_b4bk_a1?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Black",
+          "price":225,
+          "star":48 
+      },
+      {
+         
+          "id":14,
+          "title":"Riya Backpack In Colorblock",
+          "img":"https://images.coach.com/is/image/Coach/ch589_b4mbv_a3?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/1941 Saddle Multi",
+          "price":495,
+          "star":1 
+      },
+      {
+         
+          "id":15,
+          "title":"Camera Bag",
+          "img":"https://images.coach.com/is/image/Coach/cc386_v5lqt_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Pewter/Flax",
+          "price":206,
+          "star":117 
+      },
+      {
+         
+          "id":16,
+          "title":"Swinger 20 In Signature Denim",
+          "img":"https://images.coach.com/is/image/Coach/cf113_lhdrj_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Silver/Black Denim",
+          "price":225,
+          "star":85 
+      },
+      {
+         
+          "id":17,
+          "title":"Accordion Zip Wallet",
+          "img":"https://images.coach.com/is/image/Coach/ch801_v5blk_a8?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Pewter/Black",
+          "price":225,
+          "star": 343
+      },
+      {
+         
+          "id":18,
+          "title":"Rogue 25 In Regenerative Leather",
+          "img":"https://images.coach.com/is/image/Coach/cd937_b4pc0_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Army Green Multi",
+          "price":650,
+          "star": 275
+      },
+      {
+         
+          "id":19,
+          "title":"Tabby Shoulder Bag 26",
+          "img":"https://images.coach.com/is/image/Coach/ch735_lhvdt_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Silver/Flower Pink",
+          "price":450,
+          "star":251 
+      },
+      {
+         
+          "id":20,
+          "title":"Disney X Coach Card Case In Regenerative Leather",
+          "img":"https://images.coach.com/is/image/Coach/cg971_vex_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Soft Green Multi",
+          "price":95,
+          "star": 46
+      }
+  ],
+  "bags":[
+      {
+         
+          "id":1,
+          "title":"Moto Jacket",
+          "img":"https://images.coach.com/is/image/Coach/ci472_blk_a0?$desktopProductTile$",
+          "category":"cloth",
+          "gender":"female",
+          "color":"Black",
+          "price":1250,
+          "star":90
+      },
+      {
+         
+          "id":2,
+          "title":"Pillow Tabby Shoulder Bag 26",
+          "img":"https://images.coach.com/is/image/Coach/c0772_lhblk_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Silver/Black",
+          "price":550,
+          "star":251 
+      },
+      {
+         
+          "id":3,
+          "title":"Tabby Shoulder Bag 26",
+          "img":"https://images.coach.com/is/image/Coach/ch857_b4bk_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Black",
+          "price":450,
+          "star": 251
+      },
+      
+      {
+         
+          "id":4,
+          "title":"Disney X Coach Studio Shoulder Bag With Mickey Mouse And Flowers",
+          "img":"https://images.coach.com/is/image/Coach/ch413_b4vh1_a3?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Burnt Coral",
+          "price":550,
+          "star": 258
+      },
+      {
+         
+          "id":5,
+          "title":"Cara Satchel",
+          "img":"https://images.coach.com/is/image/Coach/ce741_b4bk_a3?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Black",
+          "price":395,
+          "star":7 
+      },
+      {
+         
+          "id":6,
+          "title":"Bea Crossbody",
+          "img":"https://images.coach.com/is/image/Coach/ch802_b4u6_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Red",
+          "price":275,
+          "star": 6
+      },
+      {
+         
+          "id":7,
+          "title":"Swinger 20",
+          "img":"https://images.coach.com/is/image/Coach/c2643_b4aee_a3?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Bright Green",
+          "price":225,
+          "star": 85
+      },
+      {
+         
+          "id":8,
+          "title":"Tabby Chain Clutch",
+          "img":"https://images.coach.com/is/image/Coach/ce772_b4ha_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Chalk",
+          "price":295,
+          "star": 95
+      },
+      {
+         
+          "id":9,
+          "title":"Bethany Belt Bag",
+          "img":"https://images.coach.com/is/image/Coach/ch813_b4bk_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Black",
+          "price":195,
+          "star": 111
+      },
+      {
+         
+          "id":10,
+          "title":"Luna Shoulder Bag",
+          "img":"https://images.coach.com/is/image/Coach/cc439_v5blk_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Pewter/Black",
+          "price":295,
+          "star": 34
+      },
+      {
+         
+          "id":11,
+          "title":"Cassie Crossbody 19",
+          "img":"https://images.coach.com/is/image/Coach/88346_b4ha_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Chalk",
+          "price":295,
+          "star": 139
+      },
+      {
+         
+          "id":12,
+          "title":"Metropolitan Slim Brief",
+          "img":"https://images.coach.com/is/image/Coach/55565_olsad_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Saddle",
+          "price":595,
+          "star": 39
+      },
+      {
+         
+          "id":13,
+          "title":"Wyn Crossbody",
+          "img":"https://images.coach.com/is/image/Coach/c8439_b4bk_a1?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Black",
+          "price":225,
+          "star":48 
+      },
+      {
+         
+          "id":14,
+          "title":"Riya Backpack In Colorblock",
+          "img":"https://images.coach.com/is/image/Coach/ch589_b4mbv_a3?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/1941 Saddle Multi",
+          "price":495,
+          "star":1 
+      },
+      {
+         
+          "id":15,
+          "title":"Camera Bag",
+          "img":"https://images.coach.com/is/image/Coach/cc386_v5lqt_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Pewter/Flax",
+          "price":206,
+          "star":117 
+      },
+      {
+         
+          "id":16,
+          "title":"Swinger 20 In Signature Denim",
+          "img":"https://images.coach.com/is/image/Coach/cf113_lhdrj_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Silver/Black Denim",
+          "price":225,
+          "star":85 
+      },
+      {
+         
+          "id":17,
+          "title":"Accordion Zip Wallet",
+          "img":"https://images.coach.com/is/image/Coach/ch801_v5blk_a8?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Pewter/Black",
+          "price":225,
+          "star": 343
+      },
+      {
+         
+          "id":18,
+          "title":"Rogue 25 In Regenerative Leather",
+          "img":"https://images.coach.com/is/image/Coach/cd937_b4pc0_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Brass/Army Green Multi",
+          "price":650,
+          "star": 275
+      },
+      {
+         
+          "id":19,
+          "title":"Tabby Shoulder Bag 26",
+          "img":"https://images.coach.com/is/image/Coach/ch735_lhvdt_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Silver/Flower Pink",
+          "price":450,
+          "star":251 
+      },
+      {
+         
+          "id":20,
+          "title":"Disney X Coach Card Case In Regenerative Leather",
+          "img":"https://images.coach.com/is/image/Coach/cg971_vex_a0?$desktopProductTile$",
+          "category":"bag",
+          "gender":"female",
+          "color":"Soft Green Multi",
+          "price":95,
+          "star": 44
+      }
   ]
+  
+
 
 }
