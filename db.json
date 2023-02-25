@@ -1,13 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" },
+  
   "new": [
-    { "id":1, "title":"bagmaja", "img":"https://images.coach.com/is/image/Coach/ch416_b4tj2_a0?$desktopProductTile$"}
+    { "id":1, 
+    "title":"Disney X Coach Rogue 25 In", 
+    "img":"https://images.coach.com/is/image/Coach/ch461_b4iy_a0?$desktopProductTile$",
+    "price":795,
+    "stars":266
+  }
   ]
 
 }
